@@ -78,8 +78,8 @@ Atualmente, sou formado em Ciência de Dados e atuo como Assistente de TI em uma
   />
 <img 
     align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
+    alt="sqlServer" 
+    title="sqlServer"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
