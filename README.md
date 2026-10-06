@@ -1,4 +1,4 @@
-# 🙋‍♂️ Rodrigo Borges Miguel
+# ◾ Rodrigo Borges Miguel
 
 **`Analista de Dados`**
 
