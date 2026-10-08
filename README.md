@@ -5,7 +5,7 @@
 Me chamo Rodrigo Borges Miguel, tenho 35 anos e sou natural de São Paulo. Concluí o ensino médio em escola pública, posteriormente, ingressei em um curso técnico de Contabilidade na ETEC de Ribeirão Pires. 
 Atualmente, sou formado em Ciência de Dados e atuo como Assistente de TI em uma multinacional alemã. 
 
-*'Dados que contam histórias, decisões que geram resultados.'*
+*Dados que contam histórias, decisões que geram resultados.*
 
 <p align="left">
     <a href="https://github.com/RodrigoBorgesMiguel?tab=repositories&sort=stargazers">
